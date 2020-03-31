@@ -41,6 +41,11 @@ Pour cette troisième partie du laboratoire, les participants vont créer une ba
 
    - **Vous souhaitez utiliser un pool élastique SQL ?**  : sélectionnez l’option **Non**.
   
+   - **Calcul + Stockage** : cliquez sur **Configurer la base données**. 
+      - Dans la fenêtre qui va s'afficher, cliquez sur **Vous recherchez l'édition de Base, Standard, Premiun**.
+      - Cliquez ensuite sur l'onglet **De base**. Puis cliquez sur **Appliquer**.
+      
+      ![Calcul](./media/change-pricing.png)
 
 7. Laissez le reste des valeurs par défaut, puis sélectionnez **Vérifier + créer** en bas du formulaire.
 

@@ -185,7 +185,7 @@ Dans **Créer un App Service**, vos options varient si vous êtes déjà connect
    | Paramètre | Valeur suggérée | Description |
    |-|-|-|
    |Plan App Service| MonPremierWebAppPlan | Nom du plan App Service. |
-   | Location | Canada East | Centre de données dans lequel l’application web est hébergée. |
+   | Location | Canada Centre | Centre de données dans lequel l’application web est hébergée. |
    | Size | Gratuit | Le [niveau tarifaire](https://azure.microsoft.com/pricing/details/app-service/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio) détermine les fonctionnalités d’hébergement. |
 
    ![Créer un plan App Service](./media/app-service-plan-vs2019.PNG)
