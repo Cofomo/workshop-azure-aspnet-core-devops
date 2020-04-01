@@ -1,6 +1,8 @@
 # workshop-azure-aspnet-core-devops
 Laboratoire Azure, ASP.NET Core, Entity Framework Core et Azure DevOps
 
+Si vous utilisez Visual Studio Code, veuillez consulter le dépot suivant : https://github.com/Cofomo/workshop-azure-aspnet-core-devops-vscode
+
 ## <a href="https://github.com/hinault/workshop-azure-aspnet-core-devops/tree/master/Etape%201%20-%20Deployer%20une%20Web%20App%20sur%20Azure">Etape 1 : Déployer une Web App sur Azure</a>
 
 ## <a href="https://github.com/hinault/workshop-azure-aspnet-core-devops/tree/master/Etape%202%20-%20Ajouter%20Entity%20Framewor%20Core">Etape 2 : Ajouter Entity Framework Core</a>
